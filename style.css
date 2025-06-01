@@ -767,28 +767,3 @@ footer .copyright{
         grid-template-columns: repeat(1,1fr);
     }
 }
-
-/* Dark Mode Styles */
-.dark-mode {
-  --bg-color: #121212;
-  --second-bg-color: #1e1e1e;
-  --text-color: #f8f9fa;
-}
-
-.dark-mode .header {
-  background: rgba(18, 18, 18, 0.9);
-}
-
-.dark-mode .services-box,
-.dark-mode .skills .container,
-.dark-mode .education .content {
-  background: #2d2d2d;
-  border-color: #444;
-}
-
-.dark-mode .contact form .input-box input,
-.dark-mode .contact form textarea {
-  background: #2d2d2d;
-  border-color: #444;
-  color: #f8f9fa;
-}

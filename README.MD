@@ -1,7 +1,5 @@
 # Roy Natanael's Portfolio Website
 
-![Portfolio Screenshot](website_starbak.jpeg) *(Contoh screenshot bisa diganti dengan gambar website Anda)*
-
 ## 📝 Description
 Professional portfolio website showcasing my skills, projects, and contact information. Built with modern web technologies to demonstrate my capabilities in web development and design.
 
@@ -25,4 +23,4 @@ Professional portfolio website showcasing my skills, projects, and contact infor
 ## 🚀 Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/roynyk/Project
